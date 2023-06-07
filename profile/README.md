@@ -12,4 +12,4 @@ Welcome to Zereshk, a dedicated team of Go Software Engineers currently particip
 
 At Zereshk, we are currently working on two exciting projects, both developed using the powerful Go programming language. Our projects include:
 - SMS-panel
-- Divar of Airplane Sellers
+- Divar of Airplane Dealers
